@@ -1,0 +1,7 @@
+/* Forward declarations */
+
+/* Type definitions */
+struct linebuffer {int dummy; } ;
+
+/* Variables and functions */
+

@@ -1,0 +1,11 @@
+/* Forward declarations */
+
+/* Type definitions */
+
+/* Variables and functions */
+ int a ; 
+ int /*<<< orphan*/  b ; 
+ int /*<<< orphan*/  c ; 
+ int /*<<< orphan*/  fprintf (int /*<<< orphan*/ ,char*,int) ; 
+ int /*<<< orphan*/  g (int,int /*<<< orphan*/ ) ; 
+

@@ -1,0 +1,8 @@
+/* Forward declarations */
+
+/* Type definitions */
+
+/* Variables and functions */
+ int ENC_BLOCKSIZE ; 
+ int /*<<< orphan*/  fread (char*,int) ; 
+

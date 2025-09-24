@@ -1,0 +1,12 @@
+/* Forward declarations */
+
+/* Type definitions */
+typedef  unsigned int TUI ;
+typedef  int TI ;
+typedef  double TD ;
+
+/* Variables and functions */
+scalar_t__ d ;
+scalar_t__ i ;
+scalar_t__ ui ;
+

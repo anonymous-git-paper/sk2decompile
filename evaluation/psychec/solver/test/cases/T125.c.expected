@@ -1,0 +1,8 @@
+/* Forward declarations */
+
+/* Type definitions */
+
+/* Variables and functions */
+ int /*<<< orphan*/  uid ;
+ scalar_t__ uid_set (int /*<<< orphan*/ ) ;
+

@@ -1,0 +1,8 @@
+/* Forward declarations */
+
+/* Type definitions */
+typedef  int /*<<< orphan*/  Item ;
+
+/* Variables and functions */
+ int /*<<< orphan*/ * malloc (int ) ;
+
