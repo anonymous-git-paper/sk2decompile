@@ -1,3 +1,5 @@
+
+
 # SK²Decompile
 
 **SK²Decompile: LLM-based Two-Phase Binary Decompilation from Skeleton to Skin**
@@ -43,7 +45,7 @@ SK2Decompile/
 
 ### Prerequisites
 
-- Python 3.8+
+- Python 3.9+
 - CUDA 11.0+
 - PyTorch 2.0+
 - 40GB+ GPU memory (recommended)
